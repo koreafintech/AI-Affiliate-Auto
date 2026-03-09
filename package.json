@@ -1,0 +1,15 @@
+{
+  "name": "ai-affiliate-static",
+  "version": "1.0.0",
+  "description": "Static landing page for AI Affiliate Auto",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
